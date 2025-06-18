@@ -1,8 +1,0 @@
-*.iml
-.idea/
-target/
-src/main/application/security/
-*.pem
-feed_items.json
-feed_reviews.json
-

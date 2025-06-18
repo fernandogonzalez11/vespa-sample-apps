@@ -1,8 +1,0 @@
-{
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "local>vespa-engine/renovate-config"
-  ],
-  "prHourlyLimit": 20,
-  "prConcurrentLimit": 20
-}
